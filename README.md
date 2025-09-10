@@ -2,24 +2,19 @@
 
 ### Challenge Description
 
-In this task, you will face a challenge related to "Poster." The details of the challenge are provided within the TryHackMe platform.
+This repository contains notes and resources related to different TryHackMe tasks, including **Poster, Nmap, Nessus, Metasploit, and Linux Fundamentals**.  
+Each PDF file provides task details, explanations, and solved steps that can help in learning and completing the challenges.
 
-### Task Completion
+### Files in Repository
+- **Linux Fundamentals.pdf** – Notes and solutions for Linux basics.  
+- **Metasploit -- THM.pdf** – Guide for Metasploit challenges.  
+- **NESSUS - THM.pdf** – Nessus vulnerability scanner task notes.  
+- **Nmap-TryhackMe.pdf** – Nmap scanning and usage guide.  
+- **Poster -- THM.pdf** – Walkthrough for the Poster task.  
 
-To complete the challenge:
 
-1. Access the TryHackMe platform and navigate to the "Poster" task.
-2. Follow the provided instructions and solve the challenge.
-3. Capture any flags or information required to demonstrate your completion of the challenge.
+You are free to use, modify, and share the content for learning and educational purposes.
 
-## Contributing
+---
 
-This repository is specific to the "Poster" task and may not have multiple tasks or sections like other repositories. However, if you have insights, corrections, or additional information related to this task, you can still contribute by forking this repository and submitting a pull request.
-
-Please follow our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to contribute.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the content for educational purposes.
-
-Happy learning and hacking!
+✨ Happy learning and hacking on TryHackMe!
