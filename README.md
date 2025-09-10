@@ -1,7 +1,5 @@
 # TryHackMe Poster Task Repository
 
-Welcome to the TryHackMe "Poster" Task Repository! This repository contains a single task designed to help you learn and practice a specific topic or skill. In this case, the task focuses on a specific challenge or scenario related to "Poster."
-
 ### Challenge Description
 
 In this task, you will face a challenge related to "Poster." The details of the challenge are provided within the TryHackMe platform.
