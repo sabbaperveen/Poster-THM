@@ -1,4 +1,4 @@
-# TryHackMe Poster Task Repository
+# TryHackMe Task Repository
 
 ### Challenge Description
 
